@@ -1,0 +1,22 @@
+{
+  "name": "proxy-checker",
+  "version": "1.0.0",
+  "description": "read the name",
+  "main": "checker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drooling/proxy-checker.git"
+  },
+  "author": "Surtains (github.com/drooling)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drooling/proxy-checker/issues"
+  },
+  "homepage": "https://github.com/drooling/proxy-checker#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
